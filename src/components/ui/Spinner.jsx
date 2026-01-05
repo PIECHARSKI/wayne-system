@@ -12,4 +12,5 @@ const Spinner = ({ size = 'md' }) => {
     )
 }
 
+export { Spinner }
 export default Spinner
